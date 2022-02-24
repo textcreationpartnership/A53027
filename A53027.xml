@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Acts made the 5th Assembly, 4th session beginning the 15th day of October and ending the 3d day of November following, Anno regni Regis Guielmi Tirtia Anglia, Scotiae, Franciae, &amp; Hiberniae, Octavo.</title>
+            <title>Laws, etc.</title>
+            <author>New York (State)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53027</idno>
+            <idno type="STC">Wing N826</idno>
+            <idno type="STC">ESTC R24088</idno>
+            <idno type="EEBO-CITATION">07951326</idno>
+            <idno type="OCLC">ocm 07951326</idno>
+            <idno type="VID">40660</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40660)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1210:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Acts made the 5th Assembly, 4th session beginning the 15th day of October and ending the 3d day of November following, Anno regni Regis Guielmi Tirtia Anglia, Scotiae, Franciae, &amp; Hiberniae, Octavo.</title>
+                  <title>Laws, etc.</title>
+                  <author>New York (State)</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[New York? :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>New York (State) --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:40660:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ET MON DROIT</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>Acts made the 5th Aſſembly, 4th Seſſion.</head>
+            <head type="sub">Beginning the 15th day of <hi>O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tober,</hi> and ending the 3d Day of <hi>November,</hi> following, <hi>Anno Regni Regis</hi> Guielmi <hi>Tirtia Angliae, Scotiae, Franciae, &amp; Hiberniae, Octavo.</hi>
+            </head>
+            <argument>
+               <p>An <hi>ACT</hi> to vicate a Deed of Truſt executed by <hi>John Robinſon</hi> and <hi>Mar<g ref="char:EOLhyphen"/>garet</hi> his Wife, for the Land now in the Tenure and Occupation of <hi>Cor<g ref="char:EOLhyphen"/>nelius Barneſon,</hi> and for the Confirming of the ſame unto him, his Heirs and Aſſigns forever.</p>
+               <p>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>CT</hi> for the R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſing One Hundred Men, to be liſted in his Majeſties three Companies poſted at <hi>Albany,</hi> for the Security of the Fronteers, and for the raiſing of Twelve Hundred Pounds for the encouraging ſuch as ſhall Liſt t<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſelves in the ſaid Companies, and for the defraying of other contingent <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ges at the ſaid Fronteers.</p>
+            </argument>
+            <p>WHereas the Proviſion that was lately made for the Re-inforcing and ſtrengthening the Fronteers of this Province at <hi>Albany,</hi> hath not had that effect that was deſigned, many of the Soul<g ref="char:EOLhyphen"/>diers that were liſted <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Majeſties Companies, and poſted there, having deſerted the ſaid <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>vice, whereby the ſaid Fronteers are much weakned, and his Excellence being pleaſed in his Speech to Recomend that one hundred men <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> forth-with raiſed, to be added to the two hundred and twenty one <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that are in his Majeſties three Companies
+<pb facs="tcp:40660:2"/>
+there, as a neceſſary Force for the Defence of that place, The Repreſen<g ref="char:EOLhyphen"/>tatives convened in General Aſſembly, taking the ſame into their ſerious Conſideration, and being willing on all Occaſions, out of their dutiful and Loyal Affections unto his moſt Excellent Majeſty, to joyn with and aſſiſt his Excellency in the great and prudent care he hath always taken, and does daily take for the Security of the ſaid Fronteers, Humbly pray that it may be Enacted, <hi>And be it therefore Enacted by his Excellency the Governour and Council, and Repreſentatives convened in General Aſſembly, and by the Authority of the ſame,</hi> That the Sum of ſix hundred Pounds current Money of this Province, be laid, aſſeſſed raiſed and levyed upon all and every the Inhabitants, Reſidents, Sojourners and Free-holders of and in this Province, to be imployed by his Excellency for the raiſing one hundred effective men, to be liſted <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n his Majeſties ſaid three Com<g ref="char:EOLhyphen"/>panies, now poſted there for the neceſſary Defence of the ſaid Fronteers, &amp; there to continue and remain from the firſt day of <hi>November</hi> next, until the firſt day of <hi>May</hi> then next following. And for the better enabling his Excellency to raiſe the ſaid one hundred effective Men, the ſaid ſix hundred Pounds is to be diſtributed in manner following, that is to ſay, The Sum of five Pounds to be given to ſuch Perſons as ſhall voluntarily liſt themſelves in the ſaid Companies, and Twenty ſhillings to ſuch Perſon or Perſons for each man he or they ſhall procure to be liſted in the ſaid Companies in manner aforeſaid.</p>
+            <p>And whereas the Enemy by their late Incurſion into the Indian Country has deſtroyed the two Caſtles of the <hi>Onondages</hi> and <hi>Oneydes,</hi> and alſo waſted &amp; deſtoyed their Indian Corn, by which means the laid two Na<g ref="char:EOLhyphen"/>tions of Indians are conſtrained to diſperſe themſelves, and their Wives and Children likely to periſh if Proviſion be not made for their Relief and Subſiſtance this enſuing Winter,</p>
+            <p>Be it further Enacted therefore by the Authority aforeſaid, That the Sum two hundred Pounds be alſo laid, aſſeſſed, raiſed and levyed upon all and every the Inhabitants, Reſidents, Sojourners and Free-holders of and in this Province, to be imployed by Major Peter Schuyler, Major Derick Weſſels, and Mr. Killian van Ranſlaer, for the procuring of Corn and other Neceſſary Proviſion, and the ſame to be Diſtributed by them among ſuch of the ſaid Indians as ſhall want Relief, as to their diſcretion ſhall ſeem meet and Convenient, they keeping a true and exact account thereof.</p>
+            <p>And whereas the many falſe Alarms that have lately happened in this Province, have occaſioned great Charge and diſcontent among the Inha<g ref="char:EOLhyphen"/>bitants, To the end that the ſame may for the future be prevented, <hi>Be it further Enacted by the Authority aforeſaid,</hi> That there be the Sum of two hundred Pounds alſo laid, aſſeſſed, raiſed and levied upon all and every of the Inhabitants, Reſidents, Sojourners and Free-holders of and in this Province, to be imployed by the ſaid Major <hi>Schuyler, Weſſels</hi> and <hi>Ranſlaer,</hi> in the ſending of Scouts of <hi>Chriſtians</hi> and <hi>Indians</hi> to the Lake or elſe-where, to diſcover the motion of the Enemy, which are to be continually in the ſaid Service from the firſt day of <hi>November</hi> next, until the firſt day of
+<pb facs="tcp:40660:2" rendition="simple:additions"/>
+               <hi>May</hi> next following, and alſo for the payment of thoſe that were lately ſent out, and are now in purſuit o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Enemy.</p>
+            <p>And whereas his Excellency was neceſſitated to raiſe ſome Money upon the Credit of the Government, for the defraying of the Extraordinary Charge at the time of the late Invaſion of the Enemy into the Indian Country, <hi>Be it further Enacted by the Authority aforeſaid,</hi> That the Sum of two hundred Pounds be alſo laid, aſſeſſed, raiſed and levyed upon all and every the Inhabitants, Reſidents, Sojourners and Free-holders of and in this Province, for and towards the payment of the Money raiſed upon the ſaid Credit, and the defraying of the extraordinary Charge.</p>
+            <p>And whereas the Money agreed to be raiſed by this Act will be now preſently wanting for the payment of ſuch men as ſhall voluntarily liſt themſelves, as aforeſaid, and the ſupplying the other Neceſſities hereby granted, <hi>Be it further Enacted by the Authority aforeſaid,</hi> That the Sum of One Hundred Pounds, like current Money aforeſaid, be laid, aſ<g ref="char:EOLhyphen"/>ſeſsed, raiſed and levyed upon all and every the Inhabitants, Reſidents, Sojourners and Free-houlders of and in this Province to be imployed for the payment of the Intereſt of <hi>Ten per Cent.</hi> for the Money that ſhall be advanced by any Perſon or Perſons for the purpoſes aforeſaid upon the Credit of this Act All which ſeveral and reſpective Sum and Sums of Money, to be laid and aſſeſſed in manner aforeſaid makes in the whole the Sum of Twelve hundred Pounds cur<g ref="char:EOLhyphen"/>rent Money aforeſaid, which ſaid Sum ſhall be laid, aſſeſſed, raiſed and paid unto his Majeſties Receiver General for the Time being, at the City of <hi>New-York,</hi> at or before the 25th day of <hi>March</hi> next, which ſhall be is the year of our Lord 1697. for the end and purpoſes aforeſaid, and to no other end or purpoſe whatſoever, according to the ſeveral and reſpective Quotas, and Proportions following, that is to ſay,
+<list>
+                  <item>For the City and County of <hi>New-York,</hi> three hundred ſixty five Pound.</item>
+                  <item>For the County of <hi>Weſtcheſter,</hi> ſixty nine Pound twelve ſhillings.</item>
+                  <item>For the County of <hi>Richmond,</hi> thirty ſeven Pound four ſhillings.</item>
+                  <item>For <hi>Kings County,</hi> one hundred ninety four Pound eight ſhillings.</item>
+                  <item>For <hi>Queens County,</hi> one hundred ninety three Pound ſixteen ſhillings.</item>
+                  <item>For <hi>Suffolk</hi> County, two hundred ſixteen Pound.</item>
+                  <item>For <hi>
+                        <g ref="char:V">Ʋ</g>lſter</hi> and <hi>Dutches County,</hi> one hundred and eight Poun<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>For <hi>Orange County,</hi> twelve Pound.</item>
+               </list>
+            </p>
+            <p>And for the due and better aſſeſſing, Levying and paying the aforeſaid Sum of 1200 <hi>l.</hi> current Money aforeſaid, <hi>Be it further Enacted by the Authority aforeſaid,</hi> That the Mayor and Aldermen of the City of <hi>New-York,</hi> the Juſtices of the Peace for the Time being, for the ſeveral re<g ref="char:EOLhyphen"/>ſpective <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounties af<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſaid, for the ſeveral Counties reſpectively, for the which they ſhall be Juſtices of the Peace, do within forty days after the Publication hereof, aſſemble and meet together in the Court houſes, for the ſeveral and reſpective Cities and Counties, or ſuch other place or places as they ſhall agree upon among themſelves, and ſhall there order, that the Aſſeſſors and Collectors for the City of <hi>New-York,</hi> and the ſeveral and reſpective Towns, Mannors or Liberties within their ſeveral Juriſ<g ref="char:EOLhyphen"/>dictions for the aſſeſſing, collecting and receiving of the Publick Rates,
+<pb facs="tcp:40660:3"/>
+for the defraying of the publick Charge of each reſpective City and Country aforeſaid, be the aſſeſſors and Collectors, for the aſſeſſing, Collecting and receiving the Sum or Sums of Money herein but one me<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> according to the Proportions before expreſſed, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the ſaid <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Juſtices ſhall <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meet and reaſonable.</p>
+            <p>And foraſmuch as there are ſeverall Towns, Minnors and Juriſdictions within the reſpective Counties aforeſaid, who refuſe, neglect, or do not elect annually or once every year Aſſeſſors or <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ctors, whereby the intent of this and other Acts heretofore made and publiſhed, may be evaded and fruſtrated, <hi>Be it therefore Enacte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the Authority aforeſaid.</hi> That if any of the reſpective Towns, Manners or Juriſdictions within the ſeveral Counties aforeſaid, ſhall refuſe, neglect delay or deny to chuſe or elect Aſſeſſors and Collectors for the aſſeſſing of their ſeveral &amp; reſpective Towns, Mannors and Juriſdictions, and for the Collecting the ſame ac<g ref="char:EOLhyphen"/>cording to the true intent, meaning and directions of this and the other Acts, in ſuch caſe made and provided, then and to ſuch caſe it ſhall and may be lawful for the Juſtices of the Peace, or any two of them in the Counties where ſuch Towns, Mannors and Juriſdictions are, who are hereby impowered and authorized to nominate and appoint Aſſeſsors and Collectors for ſuch Towns, Mannors and Juriſdictions as ſhall refuſe, neglect, delay or deny as aforeſaith or heretofore have refuſed, neglected, delayed or denyed, which Aſſeſſors and Collectors, ſo nominated and appointed in manner aforeſaid, ſhall to all intents and purpoſes be deemed and eſtemed the Aſſeſsors and Collectors of the ſaid Towns, Mannors and Juriſdictions, and obſerve and execute the Directions of this and other Acts, under the Pains and Penalties in the ſaid Act contained and menti<g ref="char:EOLhyphen"/>oned.</p>
+            <p>
+               <hi>And Be it further Enacted by the Authority aforeſaid,</hi> That the ſaid Mayor and Aldermen, the Juſtices of the Peace for the reſpective Cities and Counties, Towns, Mannors and Juriſdictions, have and ſhall have, by virtue of this Act full Power and Authority, each of them by himſelf to adminiſter to ſuch Aſſeſsor Aſſeſſors that ſhall be elected or nomi<g ref="char:EOLhyphen"/>nated and appointed in manner aforeſaid, <hi>That they ſhall Well and Truly execute the Office of an Aſſeſſor, and Well, Truly, Equally, impartially and in due proportion aſſeſs and rate the Estates of the Inhabtants, Reſidents, Sojourners and Free-holders of the reſpective places for which they ſhall be choſen, elected, nominated and appointed Aſſeſſors, according to the beſt skill and knowledge, and therein they ſhall ſpare no Perſon for favour nor affection, or grieve any Perſon for hatred or ill will.</hi> And the ſaid Aſſeſſors are hereby required to deliver one Copy of their Aſſeſment fairly written and ſubſcribed by them, unto the ſaid Juſtices, or to the Office of the Clerk of the Peace of the reſpective County to which they belong. And the ſaid Juſtices for each reſpective County, or any two or more of them are hereby ordered and required to cauſe the ſaid ſeveral and reſpective Aſseſments to them delivered, to be fairly written, and to ſign and ſeal ſeueral Duplicates or Copies of the ſaid Aſſeſment, and one of them ſo ſigned and ſealed, forth with to deliver, or cauſe to be delivered unto the re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pective
+<gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:40660:3" rendition="simple:additions"/>
+within the ſeveral and reſpective Cities and Counties aforeſaid, and ſhall likewiſe deliver, or cauſe to be delivered another fair Copy, ſo ſigned and ſealed, unto the Clerk of the Peace of the reſpective County to which they ſhall belong, there to be filed, and remain upon Record And the Clerk of the Peace of each County is hereby required to tranſmit the Sum of the Aſſeſment of each Town unto the Receiver General at New-York for the time being.</p>
+            <p>
+               <hi>And be it further Enacted by the Authority aforeſaid,</hi> That if any Perſon or Perſons, who ſhall be choſen, elected, nominated or appointed, in manner aforeſaid, Aſſeſſors or Collectors, ſhall deny neglect, refuſe or delay, or unequally and partially ſhall aſseſs, as by this, and the other Acts are required <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o ſhall deny, neglect, refuſe or delay to collect any Sum or Sums of Money, in form before-mentioned, aſseſsed, that then in ſuch caſe it ſhall and may be lawful for any two of his Majeſties Juſtices of the Peace of the City and Counties where ſuch Offendors ſhall happen to dwell or reſide, and who by virtue of this Act are required and impowered to do the ſame by Warrant under Hand and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eal, to commit ſuch Aſseſsors or Collectors, ſo denying refuſing, neglecting or delaying, or unequally and partially aſseſſing, or refuſing to collect, as aforeſaid, to the common Goal, there to remain without Bail or Main-prize till he or they ſhall make fine and Ranſom to his Majeſty, for ſuch his Contempt, as aforeſaid. And upon ſuch Commitment the Juſtices are ſpeedily required to nominate and appoint other Collectors and Aſ<g ref="char:EOLhyphen"/>ſeſsors in their ſtead and room</p>
+            <p>And whereas there are ſeveral Perſons that have ſhut their Doors, and refuſed to pay the Rates aſseſsed by virtue of ſeveral Acts of Aſsembly heretofore made and provided, whereby he intent of the ſaid Acts ſeemed to be fruſtrated, <hi>Be it <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urther <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nacted by the Authority aforeſaid,</hi> That if any Perſon or Perſons ſhall longer neglect or refuſe to pay the ſeveral Rate, and Aſseſments wherewith they were formerly charged by ſeveral A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts of General Aſsembly heretofore made &amp; provided, or hereafter ſhall neglect or refuſe to pay the ſeveral Rates &amp; Aſseſments wherewith he or they are charged with this Act, for or in reſpect of his or their Goods &amp; Chattels, Lands or Tenements, ſhall be neglected or refuſed to be paid, then upon demand of the Collectors that ſhall be choſen or appointed to receive the ſame, or within Ten days next and after the ſaid Demand, it ſhall and may be lawful to and for ſuch Collectors and they are hereby required, for Non-payment thereof, by Warrant under the hand of two Juſtices of the Peace, to diſtrain the perſon or perſons ſo refuſing or neg<g ref="char:EOLhyphen"/>lecting to pay by his or their Goods and Chattles, or diſtrain in and upon the Meſsuages, Lands &amp; Tenements ſo charged, &amp; the Goods and Chattles then and there found, and the Diſtreſs ſo taken, to carry away, and the ſame to expoſe to ſale in the Town or County where ſuch Diſtreſs is made, and for want of buyers, to carry the ſaid Diſtreſs unto any other place in the Province for the ſale of the ſaid Diſtreſs accordingly, for the payment of the ſaid Rate or Aſseſment, and the Over-plus coming by the ſaid ſale, if any be over and above the Charges of taking and carrying away the ſaid
+<gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:40660:4"/>
+if any be over and above the Charges of taking and carrying away the ſaid Diſtreſs, to be immediately returned to the Owner thereof. And moreover, it ſhall and may be lawful to break open in the day time any Houſe; and upon Warrant under the hand and ſeals of any two or more of the ſaid Juſtices, any Cheſt, Trunk or Box, or other things, where ſuch Goods are, and call to their aſſiſtance the Conſtables, or any other Perſons within the reſpective Cities, Counties, Towns, Mannors and Juri dictions where any refuſal, neglect or reſiſtance ſhall be made; which ſaid Officers and Perſons are hereby required to be aiding &amp; aſſiſting in the Premiſes.</p>
+            <p>
+               <hi>And be it further Enacted by the Authority aforeſaid,</hi> That if any Mayor, Alderman or Juſtice of the Peace within this Province, who are hereby required, impowered and authorized to take effectual care that this Act, and every Article and Clauſe therein be duely executed, according to the true intent and meaning thereof, ſhall deny, neglect, refuſe or delay to do, perform, fulfil &amp; execute all and every the Duties, Powers &amp; Authorities by this Act required and impowered by him or them to be done, perform<g ref="char:EOLhyphen"/>ed, fulfilled and executed, and ſhall thereof be convicted before his Excel<g ref="char:EOLhyphen"/>lency, the Governour and Council, or before any of his Majeſties Courts of Record within this Province, he or they ſhall ſuffer ſuch Pain by Fine and Impriſonment, as by the diſcretion of his ſa d Excellency, the Go<g ref="char:EOLhyphen"/>vernor and Council, &amp; the Juſtices of the ſaid Courts ſhall be adjudged.</p>
+            <p>
+               <hi>And be it further Enacted by the Authority aforeſaid,</hi> That if any Action, Plaint, Bill or Information ſhall be brought, moved or proſecuted at any time hereafter, againſt any perſon or perſons, for any matter, cauſe or thing done or acted in purſuance or execution of this Act, ſuch perſon or perſons ſo ſued or proſecuted in any Court whatſoever, ſhall and may plead the general Iſſue, <hi>Not Guilty,</hi> and give this Act and the ſpecial matter in Evidence. And if the Plantiff or Proſecutor ſhall be Non-ſuited, or for<g ref="char:EOLhyphen"/>bear further Proſecution, or ſuffer Diſ-continuance or Verdict to paſs againſt him, the Defendant or Defendants ſhall recovor tribble Coſts, for which they ſhall have the like Remedy, as in caſe where Coſts by the Law are given to Defendents.</p>
+            <p>
+               <hi>Provided always,</hi> That no Mayor, Alder-man or Juſtice of the Peace ſhall be troubled, ſued, proſecuted or moleſted for any Omiſſion, Offence or Neglect by virtue of this Act, but within the ſpace of one Year after ſuch Omiſſion, Offence or Neglect, and not at any Time hereafter, any thing contained herein to the contrary hereof in any wiſe notwithſtand<g ref="char:EOLhyphen"/>ing</p>
+         </div>
+      </body>
+   </text>
+</TEI>
